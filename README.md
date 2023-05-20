@@ -1,7 +1,7 @@
 # protein-corel
 Predicts protein correlation maps using deep learning 
 
-#Installation 
+# Installation 
 
 Please download the data 
 From
