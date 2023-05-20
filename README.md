@@ -32,9 +32,8 @@ This script is designed to navigate to a specific directory, load the Anaconda P
 
 3. `python3 "train.py"`: Finally, this command runs the `train.py` Python script using Python 3.
 
-# Python Scripts
 
-## train_corel.py
+# train_corel.py
 
 ### Functions
 
@@ -286,10 +285,7 @@ Sure, here is a brief documentation for each function in the given code block:
    - `history`: A `History` object. Its `History.history` attribute is a record of training loss values and metrics values at successive epochs, as well as validation loss values and validation metrics values.
 
 
-# Jupyter Notebook
-
-
-## Visualization Functions
+# plots.ipynb
 
 ### corel_get_map
 
