@@ -1,6 +1,21 @@
 # protein-corel
 Predicts protein correlation maps using deep learning 
 
+#Installation 
+
+Please download the data 
+From
+
+1. http://deep.cs.umsl.edu/pdnet/ 
+
+Download the /data directory from here and copy the contents into /protein-corel/code/data
+
+2. https://drive.google.com/file/d/10Co4Y6hjoWUqA7TwuHgkQ1c34OL6Rn4m/view?usp=sharing
+
+Download data.zip from here
+
+The second link corel matrix maps drag those folders into the first data directory and copy that into /protein-corel/code/data
+
 
 # Bash Scripts
 ## train6.sh 
