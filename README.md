@@ -1,7 +1,7 @@
 # protein-corel
 Predicts protein correlation maps using deep learning 
 
-#Papers 
+# Papers 
 
 1. Adhikari, B. A fully open-source framework for deep learning protein real-valued dis-
 tances. Sci Rep 10, 13374 (2020). https://doi.org/10.1038/s41598-020-70181-0
