@@ -8,11 +8,11 @@ tances. Sci Rep 10, 13374 (2020). https://doi.org/10.1038/s41598-020-70181-0
 
 2. Lu CH, Huang SW, Lai YL, Lin CP, Shih CH, Huang CC, Hsu WL, Hwang JK. On
 the relationship between the protein structure and protein dynamics. Proteins. 2008
-Aug;72(2):625-34. doi: 10.1002/prot.21954. PMID: 18247347.
+Aug;72(2):625-34. doi: 10.1002/prot.21954  PMID: 18247347.
 
 3. Cilia E, Pancsa R, Tompa P, Lenaerts T, Vranken WF. The DynaMine webserver: pre-
 dicting protein dynamics from sequence. Nucleic Acids Res. 2014 Jul;42(Web Server
-issue):W264-70. doi: 10.1093/nar/gku270. Epub 2014 Apr 11. PMID: 24728994;
+issue):W264-70. doi: 10.1093/nar/gku270 Epub 2014 Apr 11. PMID: 24728994;
 PMCID: PMC4086073
 
 # Installation 
