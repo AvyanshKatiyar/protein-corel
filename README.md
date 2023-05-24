@@ -277,8 +277,6 @@ The function starts by generating the predicted matrices using the model and the
 
 Deep Learning Structure
 
-Sure, here is a brief documentation for each function in the given code block:
-
 1. `basic_fcn`: This function creates a fully convolutional network (FCN) with a specified number of convolutional layers, each followed by batch normalization and a tanh activation function. The model accepts a 3D input and produces a single-channel output.
 
    Parameters:
@@ -318,7 +316,7 @@ Sure, here is a brief documentation for each function in the given code block:
 
 ### corel_get_map
 
-Sure, here's the documentation for the `corel_get_map` function.
+Documentation for the `corel_get_map` function.
 
 `corel_get_map` is a function that converts protein distance maps into correlation maps.
 
